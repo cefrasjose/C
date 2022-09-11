@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h>
+
 
 int main() {
   // format specifier % = defines and formats a tye of data to be displayed
